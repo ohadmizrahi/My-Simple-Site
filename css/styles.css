@@ -1,0 +1,59 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1{
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+.top{
+  position: relative;
+  padding-top: 100px;
+}
+.middle{
+  /* background-color: red;
+  width: 200px;
+  height: 200px;
+  margin: 0; */
+  /* display: inline-block; */
+}
+.bottom{
+  /* background-color: blue;
+  width: 200px;
+  height: 200px;
+  margin: 0; */
+  /* position: absolute;
+  left: 202px; */
+}
+
+.name{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.job{
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.auto{
+  text-decoration: underline;
+}
+.top-cloud{
+  position: absolute;
+  right: 500px;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 500px;
+  bottom: 300px;
+}
