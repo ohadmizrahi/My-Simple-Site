@@ -43,7 +43,11 @@ h3{
   margin-left: 0;
   margin-right: 0;
 }
-
+.skill{
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+}
 .auto{
   text-decoration: underline;
 }
@@ -56,4 +60,13 @@ h3{
   position: absolute;
   left: 500px;
   bottom: 300px;
+}
+.logos-div{
+  position: relative;
+}
+#logos{
+  position: relative;
+  display: inline-block;
+  width: 18px;
+  height: 18px;
 }
